@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-published: true
+published: false
 ---
 
 ##### Course Description
