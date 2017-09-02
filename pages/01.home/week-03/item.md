@@ -1,7 +1,7 @@
 ---
 title: 'Week 3 (Jan 19th - 25th)'
-date: 01/19/2017
-published: true
+date: '19-01-2017 00:00'
+published: false
 ---
 
 ##### Summaries and Questions  
