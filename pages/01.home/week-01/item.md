@@ -1,6 +1,6 @@
 ---
-title: 'Week 1 (Jan 5th - 11th)'
-date: 01/05/2017
+title: 'Week 10 (4-8 September)'
+date: '09-02-2017 00:00'
 published: true
 ---
 
