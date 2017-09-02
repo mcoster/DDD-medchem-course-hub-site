@@ -1,7 +1,7 @@
 ---
 title: 'Week 2 (Jan 12th - 18th)'
-date: 01/12/2017
-published: true
+date: '12-01-2017 00:00'
+published: false
 ---
 
 ##### Summaries and Questions  
