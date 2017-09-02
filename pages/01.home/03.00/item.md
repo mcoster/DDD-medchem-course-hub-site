@@ -1,5 +1,5 @@
 ---
-title: 'Course Welcome - Cycle 3'
+title: '00. Course Welcome - Cycle 3'
 date: '09-02-2017 00:00'
 header_image: '0'
 icon: users
