@@ -18,4 +18,8 @@ A brief video explaining how synthetic chemistry can help find the biological ta
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zWVmRfd8uk4" frameborder="0" allowfullscreen></iframe>
 
-These concepts will be illustrated by a case study during lectures.
+These concepts will be illustrated by a case study during lectures. I have uploaded the PDF for this case study on Learning@Griffith. Please read through this paper carefully before coming to lecture, having thought about the concepts I've outlined in this video. When you read this paper, think about these questions:
+
+1. What tags did the scientists use?
+2. Why did they use these tags?
+3. What information did this give them?
