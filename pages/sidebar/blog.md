@@ -21,4 +21,4 @@ Technology (N44) Rm 3.25
 
 ##### Course links
 [Learning@Griffith](https://bblearn.griffith.edu.au/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_60957_1&handle=cp_announcements&mode=cpview)  
-
+[BACON tutorials](https://learnbacon.com)
