@@ -18,6 +18,7 @@ Mark Coster
 Meetings by appointment  
 GRIDD (N75) Rm 2.05C _or_
 Technology (N44) Rm 3.25
+[Book an appointment](https://mcoster.youcanbook.me/)
 
 ##### Course links
 [Learning@Griffith](https://bblearn.griffith.edu.au/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_60957_1&handle=cp_announcements&mode=cpview)  
