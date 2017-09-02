@@ -4,10 +4,7 @@ date: '09-02-2017 00:00'
 published: true
 ---
 
-##### Synthesis in Drug Discovery - Intro video  
 <iframe width="280" height="160" src="https://www.youtube.com/embed/37D4YvmCIhQ" frameborder="0" allowfullscreen></iframe>
-
-
 
 ===
 
