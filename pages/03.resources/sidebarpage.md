@@ -1,7 +1,8 @@
 ---
-title: 'Resources'
-published: true
+title: Resources
+published: false
 ---
+
 ##### UX Template Collections  
 *   [Templates & Downloadable Documents | Usability.gov](http://www.usability.gov/how-to-and-tools/resources/templates.html)
 *   [cxpartners | Resources](http://www.cxpartners.co.uk/ux-resources/)
