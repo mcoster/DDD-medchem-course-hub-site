@@ -15,4 +15,4 @@ hidegitrepoeditlink: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/37D4YvmCIhQ" frameborder="0" allowfullscreen></iframe>
 
 ##### Slides
-<iframe width="560" height="315" src="slides/01-intro.html" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://teaching.mcoster.net/DDD/slides/01-intro.html" frameborder="0" allowfullscreen></iframe>
