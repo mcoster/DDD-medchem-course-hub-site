@@ -1,7 +1,10 @@
 ---
 title: '01. Introduction'
-date: '09-02-2017 00:00'
 published: true
+date: '09-02-2017 00:00'
+hidefrompostlist: false
+continue_link: true
+hidegitrepoeditlink: false
 ---
 
 <iframe width="280" height="160" src="https://www.youtube.com/embed/37D4YvmCIhQ" frameborder="0" allowfullscreen></iframe>
@@ -11,3 +14,5 @@ published: true
 ##### Synthesis in Drug Discovery - Intro video  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/37D4YvmCIhQ" frameborder="0" allowfullscreen></iframe>
 
+##### Slides
+<iframe width="560" height="315" src="slides/01-intro.html" frameborder="0" allowfullscreen></iframe>
