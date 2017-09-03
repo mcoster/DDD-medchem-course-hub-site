@@ -18,3 +18,5 @@ This video provides an introduction to why drug design might be of interestto yo
 
 ##### Slides - <a href="https://teaching.mcoster.net/DDD/slides/01-intro.html" target="_blank">open in a new tab/window</a>
 <iframe width="560" height="315" src="https://teaching.mcoster.net/DDD/slides/01-intro.html" frameborder="0" allowfullscreen></iframe>
+
+_Note: open in a new window, then select "print" if you would like to print a hardcopy of these slides_
