@@ -14,5 +14,5 @@ hidegitrepoeditlink: false
 ##### Synthesis in Drug Discovery - Intro video  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/37D4YvmCIhQ" frameborder="0" allowfullscreen></iframe>
 
-##### Slides
+##### Slides - <a href="https://teaching.mcoster.net/DDD/slides/01-intro.html" target="_blank">open in a new window</a>
 <iframe width="560" height="315" src="https://teaching.mcoster.net/DDD/slides/01-intro.html" frameborder="0" allowfullscreen></iframe>
