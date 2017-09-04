@@ -14,8 +14,10 @@ hidegitrepoeditlink: false
 
 ##### Course Instructor
 Mark Coster  
-<m.coster@griffith.edu.au>   
-<mcoster.net>
+<m.coster@griffith.edu.au>
+
+[mcoster.net](https://mcoster.net)
+
 GRIDD (N75) Rm 2.05C _or_
 Technology (N44) Rm 3.25
 [Book an appointment](https://mcoster.youcanbook.me/)
