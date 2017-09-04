@@ -33,5 +33,5 @@ These concepts will be illustrated by a case study during lectures. I have uploa
 3. What information did this give them?
 
 ##### Further Reading
-An excellent, freely available Open Access review on Photoaffinity labeling is available:
+An excellent, freely available review on photoaffinity labeling is available:
 [Photoaffinity labeling in target- and binding-site identification. Smith, E.; Collins, I. _Future Med. Chem._ **2015**, _7_, 159-183.](https://doi.org/10.4155/fmc.14.152)
