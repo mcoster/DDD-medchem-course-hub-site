@@ -22,7 +22,7 @@ A brief video explaining how synthetic chemistry can help find the biological ta
 ##### Slides - <a href="https://teaching.mcoster.net/DDD/slides/02-target-id.html" target="_blank">open in a new tab/window</a>
 <iframe width="560" height="315" src="https://teaching.mcoster.net/DDD/slides/02-target-id.html" frameborder="0" allowfullscreen></iframe>
 
-_Note: open in a new window, then select "print" if you would like to print a hardcopy of these slides_
+_Note: if you would like to print a hardcopy of these slides - open in a new window, then select "print" from your browser menu_
 
 These concepts will be illustrated by a case study during lectures. I have uploaded the PDF for this case study on Learning@Griffith. Please read through this paper carefully before coming to lecture, having thought about the concepts I've outlined in this video. When you read this paper, think about these questions:
 
