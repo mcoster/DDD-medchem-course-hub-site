@@ -21,8 +21,6 @@ A brief video explaining how synthetic chemistry can help find the biological ta
 
 ##### Slides - <a href="https://teaching.mcoster.net/DDD/slides/02-target-id.html" target="_blank">open in a new tab/window</a>
 
-[plugin:youtube](https://teaching.mcoster.net/DDD/slides/02-target-id.html)
-
 <iframe width="560" height="315" src="https://teaching.mcoster.net/DDD/slides/02-target-id.html" frameborder="0" allowfullscreen></iframe>
 
 _Note: if you would like to print a hardcopy of these slides - open in a new window, then select "print" from your browser menu_
