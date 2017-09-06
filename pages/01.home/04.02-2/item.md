@@ -1,6 +1,6 @@
 ---
-title: '3'
-published: true
+title: '03. Lead Discovery'
+published: false
 date: '09-02-2017 00:00'
 hidefrompostlist: false
 continue_link: true
