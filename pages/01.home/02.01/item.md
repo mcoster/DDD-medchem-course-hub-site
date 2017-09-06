@@ -25,4 +25,4 @@ Interactive view of Lipitor bound to HMGCoA reductase:
 <iframe src="https://h5p.org/h5p/embed/113647" width="1090" height="1115" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 Lipitor (atorvastatin):
-![Lipitor](https://teaching.mcoster.net/DDD/slides/img/Atorvastatin.png "Lipitor (atorvastatin)")
+![Lipitor](https://teaching.mcoster.net/DDD/slides/img/Atorvastatin.png)
