@@ -7,7 +7,7 @@ continue_link: true
 hidegitrepoeditlink: false
 ---
 
-This video provides an introduction to why drug design might be of interestto you.
+This video provides an introduction to why drug design might be of interest to you.
 
 [plugin:youtube](https://www.youtube.com/watch?v=37D4YvmCIhQ)
 
@@ -23,6 +23,3 @@ _Note: open in a new window, then select "print" if you would like to print a ha
 
 Interactive view of Lipitor bound to HMGCoA reductase:
 <iframe src="https://h5p.org/h5p/embed/113647" width="1090" height="1115" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-Lipitor (atorvastatin):
-![Lipitor](https://teaching.mcoster.net/DDD/slides/img/Atorvastatin.png)
