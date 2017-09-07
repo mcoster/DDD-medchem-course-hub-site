@@ -20,6 +20,9 @@ _**What are the relative advantages and disadvantages of CombiChem vs. Parallel 
 [plugin:youtube](https://youtu.be/kVud7iJ7Yq0?t=11m47s)
 In what situations do you think you could use each of these techniques?
 
-This video may look quite old-fashioned!
+This video may look quite old-fashioned! Nevertheless, it gives some good insights into the use of CombiChem in industry.
+_**What are some 'barriers to entry' in the use of CombiChem techniques?**_
 [plugin:youtube](https://youtu.be/MVgsX7PM4F4)
+
+Since its early applications to drug discovery, CombiChem techniques have been applied to many other areas of chemistry research - _can you propose any areas that might benefit from this approach?_
 
