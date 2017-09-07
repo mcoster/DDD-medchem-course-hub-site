@@ -1,7 +1,7 @@
 ---
 title: '02. Target Identification'
 published: true
-date: '09-02-2017 00:00'
+date: '28-08-2017 00:00'
 hidefrompostlist: false
 continue_link: true
 hidegitrepoeditlink: false
