@@ -9,7 +9,7 @@ hidegitrepoeditlink: false
 
 Please watch the videos linked in this post. They summarise the use of Combinatorial Chemistry (CombiChem) and Parallel Synthesis techniques in Drug Discovery.
 
-[plugin:youtube](https://www.youtube.com/watch?v=37D4YvmCIhQ)
+[plugin:youtube](https://youtu.be/kVud7iJ7Yq0?t=11m47s)
 
 ===
 
