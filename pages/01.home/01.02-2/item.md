@@ -26,3 +26,6 @@ _**What are some 'barriers to entry' in the use of CombiChem techniques?**_
 
 Since its early applications to drug discovery, CombiChem techniques have been applied to many other areas of chemistry research - _can you propose any areas that might benefit from this approach?_
 
+##### Slides - <a href="https://teaching.mcoster.net/DDD/slides/03-lead-discovery.html" target="_blank">open in a new tab/window</a>
+<iframe width="560" height="315" src="https://teaching.mcoster.net/DDD/slides/03-lead-discovery.html" frameborder="0" allowfullscreen></iframe>
+
