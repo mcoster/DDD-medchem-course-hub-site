@@ -1,10 +1,11 @@
 ---
 title: '00. Course Welcome - Cycle 3'
-date: '09-02-2017 00:00'
+date: '02-02-2017 00:00'
 header_image: '0'
 icon: users
 hidefrompostlist: false
 continue_link: false
+hidegitrepoeditlink: false
 ---
 
 Welcome to Cycle 3 of 3104NSC - Drug Design.
