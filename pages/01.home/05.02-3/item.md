@@ -12,7 +12,7 @@ The major sub-topic of Cycle 3 is Synthesis in *Lead Optimisation*. This video s
 2. What is _Lipophilic Ligand Efficiency (LLE)_?
 3. Why do we care about these numbers in drug design?
 
-<iframe width="560" height="315" src="https://youtu.be/f2P9REV8uWw?t=13m12s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f2P9REV8uWw?start=792" frameborder="0" allowfullscreen></iframe>
 
 ===
 
@@ -21,4 +21,4 @@ The major sub-topic of Cycle 3 is Synthesis in *Lead Optimisation*. This video s
 2. What is _Lipophilic Ligand Efficiency (LLE)_?
 3. Why do we care about these numbers in drug design?
 
-<iframe width="560" height="315" src="https://youtu.be/f2P9REV8uWw?t=13m12s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f2P9REV8uWw?start=792" frameborder="0" allowfullscreen></iframe>
