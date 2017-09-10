@@ -28,4 +28,5 @@ Since its early applications to drug discovery, CombiChem techniques have been a
 
 ##### Slides - <a href="https://teaching.mcoster.net/DDD/slides/03-lead-discovery.html" target="_blank">open in a new tab/window</a>
 <iframe width="560" height="315" src="https://teaching.mcoster.net/DDD/slides/03-lead-discovery.html" frameborder="0" allowfullscreen></iframe>
+[Download PDF slides](https://teaching.mcoster.net/DDD/slides/03-lead-discovery-slides.pdf)
 
