@@ -4,8 +4,6 @@ published: true
 ---
 
 ** Important Reminders **  
-Quiz #3 will be held on Friday, 22 September
-
-**BACON tutorial 1** ends 11 pm, Fri 8 September
+Quiz #3 will be held on Friday, 22 September - don't forget, this will be an _Open Note_ quiz, ie. you can bring _**one single-sided A4 sheet of handwritten notes into the quiz.**_
 
 **BACON tutorial 2** is now LIVE, closing 11 pm, Fri 15 September
