@@ -2,6 +2,8 @@
 title: '01. Introduction'
 published: true
 date: '09-02-2017 00:00'
+header_image_credit: 'Credit: pixabay'
+header_image_creditlink: 'https://pixabay.com/en/apothecary-pharmacy-chemist-437743/'
 hidefrompostlist: false
 continue_link: true
 hidegitrepoeditlink: false
